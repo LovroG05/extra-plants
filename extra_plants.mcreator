@@ -1,0 +1,110 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "GlowyFlower",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowy_flower"
+    },
+    {
+      "name": "GlowstoneDustRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_dust_recipe"
+    },
+    {
+      "name": "GlowyFlowerPlantBonemealed",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowy_flower_plant_bonemealed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OnBonemealedWithDispenser",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "on_bonemealed_with_dispenser",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.glowy_flower.name": "Glowy Flower"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "extra_plants",
+    "modName": "Extra Plants",
+    "version": "1.0.0",
+    "author": "Lovro",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Lovro1st",
+    "modElementsPackage": "tk.lovroindustries.extra_plants",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

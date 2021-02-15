@@ -1,0 +1,22 @@
+{
+  "group": "extra_plants",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extra_plants:glowy_flower"
+    },
+    {
+      "item": "extra_plants:glowy_flower"
+    },
+    {
+      "item": "extra_plants:glowy_flower"
+    },
+    {
+      "item": "extra_plants:glowy_flower"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glowstone_dust",
+    "count": 1
+  }
+}

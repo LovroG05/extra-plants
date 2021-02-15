@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "extra_plants:blocks/double_plant_syringa_top",
+    "particle": "extra_plants:blocks/double_plant_syringa_top"
+  }
+}
