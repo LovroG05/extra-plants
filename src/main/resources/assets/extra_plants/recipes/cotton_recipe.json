@@ -1,0 +1,22 @@
+{
+  "group": "extra_plants",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extra_plants:cotton_bush"
+    },
+    {
+      "item": "extra_plants:cotton_bush"
+    },
+    {
+      "item": "extra_plants:cotton_bush"
+    },
+    {
+      "item": "extra_plants:cotton_bush"
+    }
+  ],
+  "result": {
+    "item": "extra_plants:cotton",
+    "count": 4
+  }
+}

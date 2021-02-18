@@ -1,0 +1,13 @@
+{
+  "group": "extra_plants",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz"
+    }
+  ],
+  "result": {
+    "item": "extra_plants:quartz_spike",
+    "count": 9
+  }
+}

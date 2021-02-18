@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:QuartzSpikes"
+      },
+      {
+        "value": "CUSTOM:QuartzSpikes"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:QuartzSpikes"
+      },
+      {
+        "value": "CUSTOM:QuartzSpikes"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:QuartzSpike"
+    },
+    "name": "quartz_spike_recipe",
+    "namespace": "mod"
+  }
+}

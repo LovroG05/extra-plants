@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=dandelion": {
+      "model": "extra_plants:cotton_bush"
+    }
+  }
+}

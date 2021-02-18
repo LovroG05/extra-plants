@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "extra_plants:blocks/quartz_spikes",
+    "particle": "extra_plants:blocks/quartz_spikes"
+  }
+}

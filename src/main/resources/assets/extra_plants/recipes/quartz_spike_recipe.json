@@ -1,0 +1,22 @@
+{
+  "group": "extra_plants",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extra_plants:quartz_spikes"
+    },
+    {
+      "item": "extra_plants:quartz_spikes"
+    },
+    {
+      "item": "extra_plants:quartz_spikes"
+    },
+    {
+      "item": "extra_plants:quartz_spikes"
+    }
+  ],
+  "result": {
+    "item": "extra_plants:quartz_spike",
+    "count": 4
+  }
+}

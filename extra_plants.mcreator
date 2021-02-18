@@ -80,13 +80,156 @@
           }
         ]
       }
+    },
+    {
+      "name": "CottonBush",
+      "type": "plant",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cotton_bush"
+    },
+    {
+      "name": "Cotton",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cotton"
+    },
+    {
+      "name": "Woolrecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woolrecipe"
+    },
+    {
+      "name": "OnCottonBonemealed",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "on_cotton_bonemealed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CottonRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cotton_recipe"
+    },
+    {
+      "name": "QuartzSpikes",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_spikes"
+    },
+    {
+      "name": "QuartzSpike",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_spike"
+    },
+    {
+      "name": "QuartzRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_recipe"
+    },
+    {
+      "name": "OnQuartzSpikesBonemealed",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "on_quartz_spikes_bonemealed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "QuartzSpikeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_spike_recipe"
+    },
+    {
+      "name": "QuartzSpikeRecipe2",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_spike_recipe_2"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.glowy_flower.name": "Glowy Flower"
+      "tile.quartz_spikes.name": "Quartz Spikes",
+      "tile.glowy_flower.name": "Glowy Flower",
+      "tile.cotton_bush.name": "Cotton Bush",
+      "item.quartz_spike.name": "Quartz Spike",
+      "item.cotton.name": "Cotton"
     }
   },
   "workspaceSettings": {
